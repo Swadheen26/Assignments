@@ -1,0 +1,212 @@
+[
+    {
+        "Name": "Cauliflower - Small (Phool Gobhi)",
+        "Standard Price": "62.6/pc",
+        "Selling Price": "62.6",
+        "MRP": "72.6",
+        "Quantity": "450 g"
+    },
+    {
+        "Name": "Potato - Carisma (Aloo) - Lower Glycemix Index",
+        "Standard Price": "54.5/Pack",
+        "Selling Price": "54.5",
+        "MRP": "64.5",
+        "Quantity": "1 kg"
+    },
+    {
+        "Name": "Tinda (Indian Squash) - 100% Safe",
+        "Standard Price": "120.4/kg",
+        "Selling Price": "60.2",
+        "MRP": "140.4",
+        "Quantity": "500 g"
+    },
+    {
+        "Name": "Garlic (Lehsun) - 100% Safe",
+        "Standard Price": "401.3/kg",
+        "Selling Price": "60.2",
+        "MRP": "468",
+        "Quantity": "150 g"
+    },
+    {
+        "Name": "Ginger - New (Adrak) - 100% Safe",
+        "Standard Price": "124.5/kg",
+        "Selling Price": "24.9",
+        "MRP": "149.5",
+        "Quantity": "200 g"
+    },
+    {
+        "Name": "Capsicum - Green (Shimla Mirch)",
+        "Standard Price": "150.3/kg",
+        "Selling Price": "105.2",
+        "MRP": "171.7",
+        "Quantity": "700 g"
+    },
+    {
+        "Name": "Baby Potato (Aloo)",
+        "Standard Price": "35.5/kg",
+        "Selling Price": "35.5",
+        "MRP": "45.5",
+        "Quantity": "1 kg"
+    },
+    {
+        "Name": "Potato - Chipsona (Aloo) - Low Sugar",
+        "Standard Price": "45.9/kg",
+        "Selling Price": "45.9",
+        "MRP": "55.9",
+        "Quantity": "1 kg"
+    },
+    {
+        "Name": "Potato - Jumbo (Aloo) - French Fries Special",
+        "Standard Price": "41.3/kg",
+        "Selling Price": "115.6",
+        "MRP": "46.6",
+        "Quantity": "2.8 kg"
+    },
+    {
+        "Name": "Coriander - With Roots (Hara Dhaniya) - 100% Safe",
+        "Standard Price": "30.2/Pack",
+        "Selling Price": "30.2",
+        "MRP": "40.2",
+        "Quantity": "1 Pack"
+    },
+    {
+        "Name": "Potato - Red (Aloo)",
+        "Standard Price": "46.8/kg",
+        "Selling Price": "46.8",
+        "MRP": "56.8",
+        "Quantity": "1 kg"
+    },
+    {
+        "Name": "Potato (Aloo)",
+        "Standard Price": "44.2/kg",
+        "Selling Price": "44.2",
+        "MRP": "54.2",
+        "Quantity": "1 kg"
+    },
+    {
+        "Name": "Potato (Aloo)",
+        "Standard Price": "46.4/kg",
+        "Selling Price": "23.2",
+        "MRP": "56.4",
+        "Quantity": "500 g"
+    },
+    {
+        "Name": "Cabbage - Green (Large Patta Gobhi)",
+        "Standard Price": "42.5/pc",
+        "Selling Price": "42.5",
+        "MRP": "52.5",
+        "Quantity": "1 pc"
+    },
+    {
+        "Name": "Bhindi (Okra) - 100% Safe",
+        "Standard Price": "23.9/Pack",
+        "Selling Price": "23.9",
+        "MRP": "28.9",
+        "Quantity": "300 g"
+    },
+    {
+        "Name": "Cabbage - Green (Large Patta Gobhi) (100% Safe)",
+        "Standard Price": "46.5/pc",
+        "Selling Price": "46.5",
+        "MRP": "56.5",
+        "Quantity": "1 pc"
+    },
+    {
+        "Name": "Bhindi (Okra)",
+        "Standard Price": "70.4/kg",
+        "Selling Price": "35.2",
+        "MRP": "90.4",
+        "Quantity": "500 g"
+    },
+    {
+        "Name": "Mushroom - Button",
+        "Standard Price": "50.5/Pack",
+        "Selling Price": "50.5",
+        "MRP": "60.5",
+        "Quantity": "1 Pack"
+    },
+    {
+        "Name": "Bhindi (Okra) - 100% Safe",
+        "Standard Price": "68.4/kg",
+        "Selling Price": "34.2",
+        "MRP": "88.4",
+        "Quantity": "500 g"
+    },
+    {
+        "Name": "Cucumber - Hybrid (Kheera)",
+        "Standard Price": "50.2/kg",
+        "Selling Price": "40.2",
+        "MRP": "62.8",
+        "Quantity": "800 g"
+    },
+    {
+        "Name": "Cucumber - Hybrid (Kheera) - 100% Safe",
+        "Standard Price": "55.2/kg",
+        "Selling Price": "44.2",
+        "MRP": "67.8",
+        "Quantity": "800 g"
+    },
+    {
+        "Name": "Baby Onion (Pyaaz)",
+        "Standard Price": "75/kg",
+        "Selling Price": "37.5",
+        "MRP": "95",
+        "Quantity": "500 g"
+    },
+    {
+        "Name": "Cucumber - Seedless (Kheera) - 100% Safe",
+        "Standard Price": "65/kg",
+        "Selling Price": "32.5",
+        "MRP": "85",
+        "Quantity": "500 g"
+    },
+    {
+        "Name": "Bottle Gourd - Medium (Lauki) - 100% Safe",
+        "Standard Price": "54.7/kg",
+        "Selling Price": "24.6",
+        "MRP": "65.8",
+        "Quantity": "450 g"
+    },
+    {
+        "Name": "Sponge Gourd (Tori) - 100% Safe",
+        "Standard Price": "100.3/kg",
+        "Selling Price": "60.2",
+        "MRP": "117",
+        "Quantity": "600 g"
+    },
+    {
+        "Name": "Bottle Gourd - Long (Lauki)",
+        "Standard Price": "50.3/kg",
+        "Selling Price": "35.2",
+        "MRP": "64.6",
+        "Quantity": "700 g"
+    },
+    {
+        "Name": "Lemon - Desi (Nimbu) - 100% Safe",
+        "Standard Price": "240.4/kg",
+        "Selling Price": "60.1",
+        "MRP": "240.8",
+        "Quantity": "250 g"
+    },
+    {
+        "Name": "Bottle Gourd - Long (Lauki) - 100% Safe",
+        "Standard Price": "56/kg",
+        "Selling Price": "39.2",
+        "MRP": "70.3",
+        "Quantity": "700 g"
+    },
+    {
+        "Name": "Brinjal - Small (Chu Chu Baingan)",
+        "Standard Price": "71.2/kg",
+        "Selling Price": "28.5",
+        "MRP": "96.2",
+        "Quantity": "400 g"
+    },
+    {
+        "Name": "Beans - Cowpea (Lobia Phali)",
+        "Standard Price": "109/kg",
+        "Selling Price": "54.5",
+        "MRP": "129",
+        "Quantity": "500 g"
+    }
+]

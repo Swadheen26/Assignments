@@ -35,11 +35,11 @@ url = 'https://www.otipy.com/category/vegetables-1'
 driver.get(url)
 
 # Wait for JavaScript to load the content
-time.sleep(5)
+time.sleep(10)
 
 # Scroll down to load more products (if applicable)
 driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-time.sleep(5)  # Adjust sleep time if more products need to load
+time.sleep(10)  # Adjust sleep time if more products need to load
 
 # Fetch product elements
 product_elements = driver.find_elements(By.CLASS_NAME, 'style_card_info__xGm58')
@@ -82,7 +82,13 @@ def create_json_filename():
     now = datetime.now()
     timestamp = now.strftime("%Y%m%d_%I%M%p")  
     filename = f"products_{timestamp}.json"
-    return filename
+
+    current_directory = os.path.dirname(os.path.abspath(__file__))
+    
+    # Join the directory with the filename to save it in the same location as the script
+    file_path = os.path.join(current_directory, filename)
+
+    return file_path
 
 # Save products to a JSON file
 def save_to_json_file(products_data):
