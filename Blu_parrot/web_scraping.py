@@ -100,6 +100,7 @@ def save_to_json_file(products_data):
         json.dump(products_data, json_file, indent=4, ensure_ascii=False)
     
     print(f"Products saved to {json_filename}")
+    print(f"Total products scraped: {len(products)}")
 
 # Save the products to a new JSON file
 save_to_json_file(products)
