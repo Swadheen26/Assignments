@@ -19,6 +19,10 @@ from webdriver_manager.chrome import ChromeDriverManager
 import json
 import time
 
+# To store files_name as per the execution date & time
+import os
+from datetime import datetime
+
 # Set up Selenium WebDriver
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_argument("--headless")  # Optional: Run browser in headless mode
@@ -72,10 +76,27 @@ for product in product_elements:
         continue
 
 
-products_json = json.dumps(products, indent=4)        # Converting the list of products to JSON format
+# products_json = json.dumps(products, indent=4)        # Converting the list of products to JSON format
 
+def create_json_filename():
+    now = datetime.now()
+    timestamp = now.strftime("%Y%m%d_%I%M%p")  
+    filename = f"products_{timestamp}.json"
+    return filename
 
-print(products_json)  # printing the output
+# Save products to a JSON file
+def save_to_json_file(products_data):
+    # Create the filename
+    json_filename = create_json_filename()
 
+    # Save the products data to the file
+    with open(json_filename, 'w', encoding='utf-8') as json_file:
+        json.dump(products_data, json_file, indent=4, ensure_ascii=False)
+    
+    print(f"Products saved to {json_filename}")
 
-driver.quit()         # Closing the browser
+# Save the products to a new JSON file
+save_to_json_file(products)
+
+# Close the browser
+driver.quit()
